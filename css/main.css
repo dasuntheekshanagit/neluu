@@ -1528,8 +1528,9 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .masonry .entry__title {
-   font-size: 2.4rem;
+   font-size: 2.1rem;
    line-height: 1.375;
+   text-align: center;
    margin-top: 0;
    margin-bottom: 2.1rem;
 }
@@ -1555,7 +1556,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .masonry .entry__excerpt {
-   font-size: 1.5rem;
+   font-size: 1.3rem;
    line-height: 1.8;
 }
 
@@ -3084,7 +3085,7 @@ html.no-csstransitions .featured {
 
 .s-extra h5 {
    font-family: "metropolis-extrabold", sans-serif;
-   font-size: 1.6rem;
+   font-size: 1.4rem;
    line-height: 1.3125;
    margin-bottom: .6rem;
 }
