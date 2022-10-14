@@ -1,10 +1,10 @@
-let ptry1 = "ptry1.txt"
-let ptry2 = "ptry2.txt"
-let ptry3 = "ptry3.txt"
-let ptry4 = "ptry4.txt"
-let ptry5 = "ptry5.txt"
-let ptry6 = "ptry6.txt"
-let ptry7 = "ptry7.txt"
+let ptry1 = "ptry/ptry1.txt"
+let ptry2 = "ptry/ptry2.txt"
+let ptry3 = "ptry/ptry3.txt"
+let ptry4 = "ptry/ptry4.txt"
+let ptry5 = "ptry/ptry5.txt"
+let ptry6 = "ptry/ptry6.txt"
+let ptry7 = "ptry/ptry7.txt"
 
 fetch (ptry1)
 .then(x => x.text())
