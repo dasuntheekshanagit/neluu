@@ -26,7 +26,7 @@ fetch (ptry5)
 .then(x => x.text())
 .then(y => document.getElementById("ptry3").innerHTML = y);
 
-fetch (ptry5)
+fetch (ptry6)
 .then(x => x.text())
 .then(y => document.getElementById("ptry2").innerHTML = y);
 
