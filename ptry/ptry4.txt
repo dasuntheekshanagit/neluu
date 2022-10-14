@@ -1,0 +1,30 @@
+<article class="masonry__brick entry format-standard">
+		
+	<div class="entry__thumb">
+		<a href="#" class="entry__thumb-link">
+			<img src="images/potery/ptry3.jpg" 
+				 srcset="images/potery/ptry3.jpg 1x, images/potery/ptry3.jpg 2x" alt="">
+		</a>
+	</div>
+
+	<div class="entry__text">
+		<div class="entry__header">
+			
+			<div class="entry__date">
+				<a href="#">October 07, 2022</a>
+			</div>
+			<h1 class="entry__title"><a href="#">ගෙවී ගිය රස්තියාදු දවසට ආදරයෙන් ලියමි.</a></h1>
+			
+		</div>
+		<div class="entry__excerpt">
+			<p>ඉතිං සොදුර, <br><br>ඔබේ මගේ<br>ආලය,<br>මහ වැස්සේ<br>කන <br>අයිස්ක්‍රීම් එකක්<br>වැනිය................<br>කෙතරම්<br>රසවුවත්<br>දෙදෙනාට ම<br>සෙම්ප්‍රතිශ්‍යාව ය.<br>ඉතිං මේ<br>අසම්මතය තුළ<br>කවදා ඇති<br>සම්මතයක් ද??<br>එහෙත්<br>අයිස්ක්‍රීම් වඩා<br>රසවත්<br>වැස්සටම ය...<br><br>නෙලූ...
+			</p>
+		</div>
+		<div class="entry__meta">
+			<span class="entry__meta-links">
+				<a href="category.html">Love</a>
+			</span>
+		</div>
+	</div>
+
+</article> <!-- end article -->

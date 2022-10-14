@@ -1,0 +1,31 @@
+<article class="masonry__brick entry format-standard" data-aos="fade-up">
+
+	<div class="entry__thumb">
+		<a href="#" class="entry__thumb-link">
+			<img src="images/potery/ptry6.jpg" 
+				 srcset="images/potery/ptry6.jpg 1x, images/potery/ptry6.jpg 2x" alt="">
+		</a>
+	</div>
+
+	<div class="entry__text">
+		<div class="entry__header">
+			
+			<div class="entry__date">
+				<a href="#">October 8, 2022</a>
+			</div>
+			<h1 class="entry__title"><a href="#">දවසේ නිමාව දිගු වන නිදහස් රැය ගැන ආදරයෙන් සටහන් තබමි.</a></h1>
+			
+		</div>
+		<div class="entry__excerpt">
+			<p>රැයෙහි ද අසම්මත <br>වෙලාවක<br>කාටත් හොරෙන්<br>පිටත් වූයෙමි<br>හන්තාන <br>අහස යට<br>නුවරට.....<br>ඉතිං ,<br>ගත දැවටෙන <br>මේ සිසිල්<br>සුළං පොද<br>සැනසුමකි<br>දිවියට..............<br>ලොවම<br>නිදිගත්<br>රාත්‍රියේ <br>ඇසිපිය නොහෙලා<br>විදගමි<br>මේ<br>සතුට<br>හුදෙකලාව ම.<br><br>නෙලූ ...
+			</p>
+		</div>
+		<div class="entry__meta">
+			<span class="entry__meta-links">
+				<a href="#">Night</a>
+				<a href="#">Relationship</a>
+			</span>
+		</div>
+	</div>
+
+</article> <!-- end article -->

@@ -1,0 +1,30 @@
+<article class="masonry__brick entry format-standard" data-aos="fade-up">
+
+	<div class="entry__thumb">
+		<a href="#" class="entry__thumb-link">
+			<img src="images/potery/ptry5.jpg" 
+				 srcset="images/potery/ptry5.jpg 1x, images/potery/ptry5.jpg 2x" alt="">
+		</a>
+	</div>
+
+	<div class="entry__text">
+		<div class="entry__header">
+			
+			<div class="entry__date">
+				<a href="#">October 05, 2017</a>
+			</div>
+			<h1 class="entry__title"><a href="#">දවසේ නිමාවට ආදරයෙන් ලියමි...</a></h1>
+			
+		</div>
+		<div class="entry__excerpt">
+			<p>ඇයි ඔහොම තනියම .......................... ?<br>නිකං...<br>ඇයි තනියෙන් හොද නැද්ද.<br>මමත් කල්පනා කළා...<br><br>ඔව්<br><br>ජීවිතය ට වාරුවක්<br>උදෙසා<br>සහකරුවෙකු අවැසිමයි<br>කියා ලෝකයා ඔබට <br>කියාවි.<br>ඔබව විවාහයක <br>සිරකරාවි.<br>නමුත්,,,,<br>ඔබ ඔබවම<br>ඔබට රුකුලක් කරගන්න.<br>ඔබට අවැසි දේ <br>සිහියෙන්<br>සිතන්න.<br>ඔබේ සැනසීම<br>තවකෙකු මත<br>නොරදවන්න...<br>ප්‍රීතිමත් වීම උදෙසා <br>අනුන්ගේ වහලෙකු නොවන්න.<br>ඉතිං ඔබ ඔබ ම වෙන්න.<br><br>නෙලූ...
+			</p>
+		</div>
+		<div class="entry__meta">
+			<span class="entry__meta-links">
+				<a href="#">Alone</a> 
+			</span>
+		</div>
+	</div>
+
+</article> <!-- end article -->

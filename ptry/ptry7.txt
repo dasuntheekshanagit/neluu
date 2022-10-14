@@ -1,0 +1,30 @@
+<article class="masonry__brick entry format-standard" data-aos="fade-up">
+		
+	<div class="entry__thumb">
+		<a href="#" class="entry__thumb-link">
+			<img src="images/potery/ptry8.jpg" 
+				 srcset="images/potery/ptry8.jpg 1x, images/potery/ptry8.jpg 2x" alt="">
+		</a>
+	</div>
+
+	<div class="entry__text">
+		<div class="entry__header">
+			
+			<div class="entry__date">
+				<a href="#">October 13, 2022</a>
+			</div>
+			<h1 class="entry__title"><a href="#">ගෙවී ගිය දිනයට මෙසේ ලියමි.ආදරයෙන්.  </a></h1>
+			
+		</div>
+		<div class="entry__excerpt">
+			<p>මේ සරසවි<br>අහස යට<br>ඔබ මාගේ පුංචි <br>නවාතැනයි...<br>මගේ සැනසීමයි..<br>ඉතිං මා කෙතරම් <br>ඊට මනබැන්දා ද<br>යන්න සිතාගත <br>නොහැකි ය...<br>දමා යන්නට ද<br>ලෝබය.<br>එතරම් නිදහස් ය.<br>වළාකුළු අතරින් ක්ශිතිජය<br>පෙනෙන කවුළුව<br>මා හට පියෑඹීමට<br>හැකි බව ද පසක් කරලී ය.<br>ඉතිං කෙලෙද දමා යම් ද??<br>එබැවින් නැවත ඉක්මනින් <br>එමි...<br>එතෙක් මගේ ළය ට බර <br>හුස්ම ඔබ වෙත තබා යමි.....<br>ආදරෙන්.<br>මගේ පුංචිකාමරය..<br>සදා කාලික සැනසීම..<br><br>නෙලූ..</p>
+		</div>
+		<div class="entry__meta">
+			<span class="entry__meta-links">
+				<a href="category.html">Night</a> 
+				<a href="category.html">University Life</a>
+			</span>
+		</div>
+	</div>
+
+</article> <!-- end article -->

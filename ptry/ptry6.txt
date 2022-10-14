@@ -1,0 +1,31 @@
+<article class="masonry__brick entry format-standard" data-aos="fade-up">
+
+	<div class="entry__thumb">
+		<a href="#" class="entry__thumb-link">
+			<img src="images/potery/ptry4.jpg" 
+				 srcset="images/potery/ptry4.jpg 1x, images/potery/ptry4.jpg 2x" alt="">
+		</a>
+	</div>
+
+	<div class="entry__text">
+		<div class="entry__header">
+			
+			<div class="entry__date">
+				<a href="#">October 10, 2022</a>
+			</div>
+			<h1 class="entry__title"><a href="#">ගෙවී ගිය විඩාබර දිනයට ආදරයෙන් ලියමි.</a></h1>
+			
+		</div>
+		<div class="entry__excerpt">
+			<p>නොසන්සුන් ඇස් වලින් <br>මහ සෙනග දෙස <br>බලමින්<br>හදුනන දෑස් හොයන<br>කුළුදුල් පෙම්වතුන් <br>දුටිමි,<br>මම<br>නුවර අහස යට,<br>තනි වූ දිනෙක.....<br>මුමුණමින් එකිනෙකා<br>පටළමින් දෑත් බැද<br>සොයා ගිය ප්‍රේමයක්<br>තව තිබුණි <br>වැව රවුම කෙළවරක,<br>පෙම්බස් වලින්<br>ඉතිරී ගිය<br>තැන් අතර<br>එකම එක<br>බංකුවක්<br>ඇස ගැටුනි.....<br>මට සිතුණි.<br>ඒ මම ම යැයි කියා...<br>හුදෙකලාවෙම සිටින<br>ගල් ගැහුණු හදවත්<br>ඇති බවක් මට<br>දැනුණි,<br>ඒ කොන්ක්‍රීට් බැම්මටත්....<br>ඉතිං මා පෙම් <br>බැන් ද ඒ නුවර වැව් <br>බැම්ම දරාගෙන <br>සිටි බවත්<br>ඇත්ත විය<br>ප්‍රේම දිය.........<br>අපි සබද<br>එකි නෙකා<br>දරාගමු <br>වෙන්වීම<br>හමුවීම...........................<br><br>නෙලූ...
+			</p>
+		</div>
+		<div class="entry__meta">
+			<span class="entry__meta-links">
+				<a href="#">Love</a>
+				<a href="#">Kandy</a>
+			</span>
+		</div>
+	</div>
+
+</article> <!-- end article -->

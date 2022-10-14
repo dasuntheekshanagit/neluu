@@ -1,0 +1,31 @@
+<article class="masonry__brick entry format-standard" data-aos="fade-up">
+
+	<div class="entry__thumb">
+		<a href="#" class="entry__thumb-link">
+			<img src="images/potery/ptry7.jpg" 
+				 srcset="images/potery/ptry7.jpg 1x, images/potery/ptry7.jpg 2x" alt="">
+		</a>
+	</div>
+
+	<div class="entry__text">
+		<div class="entry__header">
+			
+			<div class="entry__date">
+				<a href="#">October 03, 2022</a>
+			</div>
+			<h1 class="entry__title"><a href="#">දිනයේ ආරම්භය මා සමග අමනාප නැති බව සිතමි.එබැවින් දිනයෙහි අවසානය ට සටහන් තබමි.ආදරයෙන්...</a></h1>
+			
+		</div>
+		<div class="entry__excerpt">
+			<p>ලෝකයේ<br>කොතෙක් මිනිසුන්<br>සිටිය ද<br>ඒ සියල්ල<br>එක හා<br>සමාන නැත.<br>එබැවින් <br>ලෝකය <br>ගෝලාකාර ය.<br>විවිධ ය.<br>මේ දර්ශන<br>පඨය තුළ<br>ඔබ දකින<br>මා<br>වෙනස්‍ ය.<br>ඒ කෙසේ වුවත්<br>මා තරමට<br>මා ගැන දන්නා <br>අන්කවරෙකු<br>හෝ නැත.<br>එබැවින්<br>ඔබ මට ලබාදෙන<br>චරිත සහතික වලින්<br>මට ඇති <br>ඵලක් නැත.<br><br>නෙලූ...
+			</p>
+		</div>
+		<div class="entry__meta">
+			<span class="entry__meta-links">
+				<a href="#">Lifestyle</a>
+				<a href="#">World</a>
+			</span>
+		</div>
+	</div>
+
+</article> <!-- end article -->
